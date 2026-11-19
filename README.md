@@ -1,5 +1,7 @@
+# NAME : Jehu Phinehas J
+# REG NO : 212224060109
 # Ex. No: 6 Identifying MAC and IP Addresses Using Packet Tracer
-# Date:
+# Date: 18/11/2026
 ________________________________________
 # Objective
 To use Cisco Packet Tracer simulation mode to capture and analyze MAC and IP address information for both local and remote network communication.
@@ -13,7 +15,11 @@ ________________________________________
 # Description:
 •	The topology contains a local network (172.16.31.0/24) connected to a remote network (10.10.10.0/24) via a router.<br>
 •	Devices include PCs, switches, hub, and wireless AP.<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
+
+
+(Insert screenshot of your Packet Tracer setup here)<br<img width="580" height="608" alt="image" src="https://github.com/user-attachments/assets/3c89d805-fab9-44b8-810a-219db063612e" />
+
+
 ________________________________________
 # IP Addressing Table
 (Example – actual values from simulation)<br>
@@ -48,10 +54,20 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
-•	PDU details for local communication<br>
-•	PDU details for remote communication<br>
-•	Tables showing MAC/IP changes through each device<br>
+
+•	PDU details for local communication<br><img width="1913" height="1133" alt="Screenshot 2026-08-05 105211" src="https://github.com/user-attachments/assets/8bbcfd6f-9e3f-40b3-8bf3-3f905d6497ad" />
+
+<img width="1907" height="1132" alt="Screenshot 2026-08-05 112251" src="https://github.com/user-attachments/assets/e1eb0eda-652e-4be0-88d4-348508d6d056" />
+
+
+
+
+•	PDU details for remote communication<br><img width="1907" height="1131" alt="Screenshot 2026-08-05 112459" src="https://github.com/user-attachments/assets/0c80e34c-8c18-41d2-85aa-d345a49143b7" /><img width="1907" height="1135" alt="Screenshot 2026-08-05 112936" src="https://github.com/user-attachments/assets/0f8fe917-0226-4660-ac27-e5267b20de0f" />
+
+
+
+•	Tables showing MAC/IP changes through each device<br><img width="1910" height="1127" alt="Screenshot 2026-08-05 113047" src="https://github.com/user-attachments/assets/371cef1d-078a-4cca-8865-c6e27bda962f" />
+
 ________________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
-
