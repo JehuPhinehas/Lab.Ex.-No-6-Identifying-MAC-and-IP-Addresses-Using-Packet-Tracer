@@ -1,7 +1,5 @@
-# NAME : Jehu Phinehas J
-# REG NO : 212224060109
 # Ex. No: 6 Identifying MAC and IP Addresses Using Packet Tracer
-# Date: 18/11/2026
+# Name:Dinesh sree vathsan A (212224060070)
 ________________________________________
 # Objective
 To use Cisco Packet Tracer simulation mode to capture and analyze MAC and IP address information for both local and remote network communication.
@@ -12,14 +10,12 @@ ________________________________________
 •	PCs, switches, router, hub, and wireless access point (as per given setup)<br>
 ________________________________________
 # Network Topology Diagram
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/66a6d016-0c0d-4f4a-8468-7df0dcb87e07" />
+
 # Description:
 •	The topology contains a local network (172.16.31.0/24) connected to a remote network (10.10.10.0/24) via a router.<br>
 •	Devices include PCs, switches, hub, and wireless AP.<br>
-
-
-(Insert screenshot of your Packet Tracer setup here)<br<img width="580" height="608" alt="image" src="https://github.com/user-attachments/assets/3c89d805-fab9-44b8-810a-219db063612e" />
-
-
+(Insert screenshot of your Packet Tracer setup here)<br>
 ________________________________________
 # IP Addressing Table
 (Example – actual values from simulation)<br>
@@ -54,19 +50,23 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
+<img width="1918" height="1022" alt="S1" src="https://github.com/user-attachments/assets/fdc19410-db27-495c-a1d6-3d8d2001aefa" />
 
-•	PDU details for local communication<br><img width="1913" height="1133" alt="Screenshot 2026-08-05 105211" src="https://github.com/user-attachments/assets/8bbcfd6f-9e3f-40b3-8bf3-3f905d6497ad" />
+<img width="1919" height="1018" alt="S2" src="https://github.com/user-attachments/assets/16270beb-0acb-4ba0-8020-2ed4562401e3" />
 
-<img width="1907" height="1132" alt="Screenshot 2026-08-05 112251" src="https://github.com/user-attachments/assets/e1eb0eda-652e-4be0-88d4-348508d6d056" />
+<img width="1919" height="1020" alt="S3" src="https://github.com/user-attachments/assets/7129d2c9-541e-4b80-ba93-271babad19c9" />
+
+<img width="1919" height="1020" alt="S4" src="https://github.com/user-attachments/assets/325c60a1-5e02-49d7-863c-a65bf513c82f" />
+
+<img width="1899" height="1017" alt="S5" src="https://github.com/user-attachments/assets/52f2f81b-8656-4291-98ae-569df91c65f7" />
+
+<img width="1919" height="1017" alt="S6" src="https://github.com/user-attachments/assets/49394474-05ad-4c0a-a2a6-8d89010d0212" />
 
 
 
 
-•	PDU details for remote communication<br><img width="1907" height="1131" alt="Screenshot 2026-08-05 112459" src="https://github.com/user-attachments/assets/0c80e34c-8c18-41d2-85aa-d345a49143b7" /><img width="1907" height="1135" alt="Screenshot 2026-08-05 112936" src="https://github.com/user-attachments/assets/0f8fe917-0226-4660-ac27-e5267b20de0f" />
 
 
-
-•	Tables showing MAC/IP changes through each device<br><img width="1910" height="1127" alt="Screenshot 2026-08-05 113047" src="https://github.com/user-attachments/assets/371cef1d-078a-4cca-8865-c6e27bda962f" />
 
 ________________________________________
 # Result
